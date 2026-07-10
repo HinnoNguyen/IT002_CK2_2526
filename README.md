@@ -1,3 +1,6 @@
+**Link video giải chi tiết từ kênh UIT Knowledge:** [Link video](https://youtu.be/2QSiH2Uke3c?si=0_el45-HyL81rIvX)
+
+[![Video giải chi tiết](https://img.youtube.com/vi/2QSiH2Uke3c/hqdefault.jpg)](https://youtu.be/2QSiH2Uke3c?si=0_el45-HyL81rIvX)
 ## OOP HK2 - 2025_2026
 
 Lưu ý
