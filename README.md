@@ -1,17 +1,19 @@
-**Link video giải chi tiết từ kênh UIT Knowledge:** [Link video](https://youtu.be/2QSiH2Uke3c?si=0_el45-HyL81rIvX)
-
-[![Video giải chi tiết](https://img.youtube.com/vi/2QSiH2Uke3c/hqdefault.jpg)](https://youtu.be/2QSiH2Uke3c?si=0_el45-HyL81rIvX)
-
 🔗 **GitHub Repository / Online README:** [https://github.com/HinnoNguyen/IT002_CK2_2526](https://github.com/HinnoNguyen/IT002_CK2_2526)
-
 ## OOP HK2 - 2025_2026
 
-Lưu ý
+**Lưu ý**
 - Đây là kết quả tham khảo, do sinh viên giải và cũng chưa thông qua giảng viên sửa, có thể có sai sót
 - Nếu có sai sót, bạn có thể contact mình để sửa 
 - Mình chỉ làm cho vui <(") (thật đấy, nếu bạn tìm thấy bài của mình để chép đáp án mà sai, mất điểm quiz, quá trình thì mình ko chịu trách nhiệm đâu)
-- Mình chỉ giải duy nhất câu 3 của đề OOP Học kì 2 của năm học 2025 - 2026
 - Các K20 UIT-er có thấy thì... bạn đừng buồn, xưa cái đề năm mình cũng quỷ ko kém bạn đâu. Chúc các bạn may mắn
+- Đáp án câu 1 và 2 sẽ nằm ở [video của kênh youtube UIT Knowledge]
+- Ở repo github này chỉ chứa [đề thi OOP HK2 - 2025_2026] và [đáp án tham khảo câu 3] 
+
+---
+# **Video giải chi tiết đề thi OOP HK2 - 2025_2026 từ kênh UIT Knowledge:** 
+- [Link video](https://youtu.be/2QSiH2Uke3c?si=0_el45-HyL81rIvX)
+
+[![Video giải chi tiết](https://img.youtube.com/vi/2QSiH2Uke3c/hqdefault.jpg)](https://youtu.be/2QSiH2Uke3c?si=0_el45-HyL81rIvX)
 
 ---
 
