@@ -1,10 +1,6 @@
-# Mô Phỏng Tu Sĩ C++ (Cultivator Simulation)
+## Đề bài Câu 3 OOP HK2 - 2025_2026
 
-Dự án này là một chương trình C++ được viết theo hướng hướng đối tượng (OOP) nhằm giải quyết bài toán thi học kỳ môn Lập trình hướng đối tượng (OOP) của trường Đại học Công nghệ Thông tin (UIT). Chương trình mô phỏng các tu sĩ thuộc các cảnh giới khác nhau (Trúc Cơ, Kết Đan, Nguyên Anh) cùng với các kỹ năng của họ (Kỹ năng thường và Kỹ năng phép), tính toán sát thương mỗi giây (DPS), xếp hạng các kỹ năng và tính toán thời gian hạ gục đối thủ có lượng máu cho trước.
-
----
-
-## Đề bài (Câu 3 - 5.0 điểm)
+-# Lưu ý đây là kết quả tham khảo chưa thông qua giảng viên, sẽ có sai sót
 
 **Năm 2050**, sau hàng loạt biến động địa chất và bức xạ vũ trụ bí ẩn, Trái Đất bước vào thời kỳ khôi phục linh khí. Linh khí - những dòng năng lượng cổ xưa từng biến mất khỏi thế gian - bắt đầu xuất hiện trở lại trong trời đất, làm thay đổi hoàn toàn nền văn minh nhân loại. Các sinh vật đột biến xuất hiện khắp nơi, những di tích cổ đại dần thức tỉnh, còn con người bắt đầu bước lên con đường tu luyện (gọi là tu sĩ) để tranh đoạt tài nguyên và sinh tồn giữa thời đại mới.
 
