@@ -3,7 +3,7 @@
 Lưu ý
 - Đây là kết quả tham khảo, do sinh viên giải và cũng chưa thông qua giảng viên sửa, có thể có sai sót
 - Nếu có sai sót, bạn có thể contact mình để sửa 
-- Mình chỉ làm cho vui <(") (thật đấy, nếu bạn tìm thấy nguồn để chép đáp án mà sai, mất điểm quiz, quá trình thì mình ko chịu trách nhiệm đâu)
+- Mình chỉ làm cho vui <(") (thật đấy, nếu bạn tìm thấy bài của mình để chép đáp án mà sai, mất điểm quiz, quá trình thì mình ko chịu trách nhiệm đâu)
 - Mình chỉ giải duy nhất câu 3 của đề OOP Học kì 2 của năm học 2025 - 2026
 - Các K20 UIT-er có thấy thì... bạn đừng buồn, xưa cái đề năm mình cũng quỷ ko kém bạn đâu. Chúc các bạn may mắn
 
