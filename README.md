@@ -5,12 +5,8 @@
 - Nếu có sai sót, bạn có thể contact mình để sửa 
 - Mình chỉ làm cho vui <(") (thật đấy, nếu bạn tìm thấy bài của mình để chép đáp án mà sai, mất điểm quiz, quá trình thì mình ko chịu trách nhiệm đâu)
 - Các K20 UIT-er có thấy thì... bạn đừng buồn, xưa cái đề năm mình cũng quỷ ko kém bạn đâu. Chúc các bạn may mắn
-
 - Đáp án câu 1 và 2 sẽ nằm ở [video của kênh youtube UIT Knowledge]
-- Ở repo github này chỉ chứa [đề thi] và [đáp án tham khảo câu 3] 
-
----
-- Đường dẫn tới đề thi [OOP HK2 - 2025_2026]
+- Ở repo github này chỉ chứa [đề thi OOP HK2 - 2025_2026] và [đáp án tham khảo câu 3] 
 
 ---
 # **Video giải chi tiết đề thi OOP HK2 - 2025_2026 từ kênh UIT Knowledge:** 
