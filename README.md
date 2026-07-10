@@ -1,6 +1,8 @@
 ## Đề bài Câu 3 OOP HK2 - 2025_2026
 
--# Lưu ý đây là kết quả tham khảo chưa thông qua giảng viên, sẽ có sai sót
+Lưu ý đây là kết quả tham khảo chưa thông qua giảng viên, sẽ có sai sót
+
+---
 
 **Năm 2050**, sau hàng loạt biến động địa chất và bức xạ vũ trụ bí ẩn, Trái Đất bước vào thời kỳ khôi phục linh khí. Linh khí - những dòng năng lượng cổ xưa từng biến mất khỏi thế gian - bắt đầu xuất hiện trở lại trong trời đất, làm thay đổi hoàn toàn nền văn minh nhân loại. Các sinh vật đột biến xuất hiện khắp nơi, những di tích cổ đại dần thức tỉnh, còn con người bắt đầu bước lên con đường tu luyện (gọi là tu sĩ) để tranh đoạt tài nguyên và sinh tồn giữa thời đại mới.
 
