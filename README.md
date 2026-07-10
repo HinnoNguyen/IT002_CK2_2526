@@ -1,6 +1,10 @@
-## Đề bài Câu 3 OOP HK2 - 2025_2026
+## OOP HK2 - 2025_2026
 
-*Lưu ý: Đây là kết quả tham khảo chưa thông qua giảng viên, có thể có sai sót.*
+Lưu ý
+- Đây là kết quả tham khảo, do sinh viên giải và cũng chưa thông qua giảng viên sửa, có thể có sai sót
+- Nếu có sai sót, bạn có thể contact mình để sửa 
+- Mình chỉ làm cho vui <(") (thật đấy, nếu bạn tìm thấy nguồn để chép đáp án mà sai, mất điểm quiz, quá trình thì mình ko chịu trách nhiệm đâu)
+- Các K20 UIT-er có thấy thì... bạn đừng buồn, xưa cái đề năm mình cũng quỷ ko kém bạn đâu. Chúc các bạn may mắn
 
 ---
 
