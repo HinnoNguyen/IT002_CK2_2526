@@ -29,7 +29,7 @@ Tùy theo cảnh giới mà tu sĩ có giá trị linh lực và số lượng k
 | **Kết Đan** | Sau khi hấp thụ một lượng lớn linh khí, tu sĩ bắt đầu cô đọng thành hạt nhân bên trong cơ thể. Có thể sở hữu tối đa 5 kỹ năng. | `rand(2, 5)` | `rand(100, 300)` |
 | **Nguyên Anh** | Hạt nhân bị phá vỡ và hình thành sinh mạng thứ hai hình dáng giống một em bé (gọi là nguyên anh). Có thể sở hữu tối đa 7 kỹ năng và lượng linh lực to lớn. | `rand(3, 7)` | `rand(300, 700)` |
 
-*Giả sử tồn tại hàm `rand(x, y)` phát sinh ngẫu nhiên một giá trị nguyên $m$ với $x \le m \le y$.*
+*Giả sử tồn tại hàm rand(x, y) phát sinh ngẫu nhiên một giá trị nguyên m với x ≤ m ≤ y.*
 
 Một tu sĩ có thể sở hữu nhiều loại kỹ năng khác nhau. Các kỹ năng đều có các thông tin chung gồm:
 *   Tên kỹ năng (skill name)
@@ -47,7 +47,7 @@ Là các chiêu thức vận dụng trực tiếp cơ thể hoặc vũ khí (đa
 *   Không tiêu hao linh lực.
 *   Có thể sử dụng liên tục mà không cần chờ hồi phục.
 *   Thời gian thi triển chính là khoảng thời gian cần thiết để thực hiện trọn vẹn một đòn đánh.
-*   Thời gian thi triển rất ngắn, nằm trong khoảng: $0 < m \le 1$ giây.
+*   Thời gian thi triển rất ngắn, nằm trong khoảng: 0 < m ≤ 1 giây.
 
 #### Kỹ năng Ma Pháp
 Là các chiêu thức vận dụng linh lực để gia tăng sát thương và tạo ra những hiệu ứng đặc biệt.
