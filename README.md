@@ -1,4 +1,4 @@
-## OOP HK2 - 2025_2026
+# OOP HK2 - 2025_2026
 
 **Lưu ý**
 - Đây là kết quả tham khảo, do sinh viên giải và cũng chưa thông qua giảng viên sửa, có thể có sai sót
@@ -9,7 +9,8 @@
 - Ở repo github này chỉ chứa [đề thi OOP HK2 - 2025_2026](https://github.com/HinnoNguyen/IT002_CK2_2526/blob/main/%C4%90%E1%BB%81%20Thi/%C4%90%E1%BB%81%20Thi%20OOP%20HK2%202025-2026.pdf), [câu 3](#cau3) và [đáp án tham khảo cho câu 3](#cau3ans)
 
 ---
-# **Video giải chi tiết đề thi OOP HK2 - 2025_2026 từ kênh UIT Knowledge:**
+
+## **Video giải chi tiết đề thi OOP HK2 - 2025_2026 từ kênh UIT Knowledge:**
 <a name="video"></a>
 - [Link video](https://youtu.be/2QSiH2Uke3c?si=0_el45-HyL81rIvX)
 
