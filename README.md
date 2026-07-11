@@ -87,10 +87,12 @@ Là các chiêu thức vận dụng linh lực để gia tăng sát thương và
    *   Cho biết lượng sát thương mà kỹ năng đó có thể gây ra trong một giây (Damage Per Second – DPS). *(0.5 điểm)*
    
    *Giả định rằng tu sĩ đã có thể hồi phục MP liên tục, sinh viên có thể bỏ qua thông tin về linh lực tiêu hao trong phép tính này. Công thức tổng quát:*
+
    $$\text{DPS} = \frac{\text{Sát thương cuối}}{\text{Thời gian thi triển} + \text{Thời gian hồi chiêu}}$$
+
    *Đối với kỹ năng thông thường thì Cooldown = 0.*
-4. **(0.5 điểm)** Hãy cho biết thông tin của top 2 kỹ năng có DPS mạnh nhất của tu sĩ đó.
-5. **(0.5 điểm)** Với một quái vật có 4000 HP, hãy cho biết khi một người chỉ sử dụng kỹ năng mạnh nhất liên tục thì cần bao lâu để giết nó.
+5. **(0.5 điểm)** Hãy cho biết thông tin của top 2 kỹ năng có DPS mạnh nhất của tu sĩ đó.
+6. **(0.5 điểm)** Với một quái vật có 4000 HP, hãy cho biết khi một người chỉ sử dụng kỹ năng mạnh nhất liên tục thì cần bao lâu để giết nó.
 
 ---
 
