@@ -13,7 +13,11 @@
 <a name="video"></a>
 - [Link video](https://youtu.be/2QSiH2Uke3c?si=0_el45-HyL81rIvX)
 
-[![Video giải chi tiết](https://img.youtube.com/vi/2QSiH2Uke3c/hqdefault.jpg)](https://youtu.be/2QSiH2Uke3c?si=0_el45-HyL81rIvX)
+<p align="center">
+  <a href="https://youtu.be/2QSiH2Uke3c?si=0_el45-HyL81rIvX">
+    <img src="https://img.youtube.com/vi/2QSiH2Uke3c/maxresdefault.jpg" width="1000">
+  </a>
+</p>
 
 ---
 
