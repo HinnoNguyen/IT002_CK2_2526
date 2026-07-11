@@ -3,9 +3,9 @@
 **Lưu ý**
 - Đây là kết quả tham khảo, do sinh viên giải và cũng chưa thông qua giảng viên sửa, có thể có sai sót
 - Nếu có sai sót, bạn có thể contact mình để sửa 
-- Mình chỉ làm cho vui <(") (thật đấy, nếu bạn tìm thấy bài của mình để chép đáp án mà sai, mất điểm quiz, quá trình thì mình ko chịu trách nhiệm đâu)
+- Mình chỉ làm cho vui 🐧 (thật đấy, nếu bạn tìm thấy bài của mình để chép đáp án mà sai, mất điểm quiz hoặc quá trình, thì mình ko chịu trách nhiệm đâu)
 - Các K20 UIT-er có thấy thì... bạn đừng buồn, xưa cái đề năm mình cũng quỷ ko kém bạn đâu. Chúc các bạn may mắn
-- Đáp án câu 1 và 2 sẽ nằm ở [video của kênh youtube UIT Knowledge](#video)
+- Đáp án câu 1, 2, (Chủ video cũng có giải câu 3 nhma sẽ hướng dẫn cách làm thôi :b) sẽ nằm ở [video của kênh youtube UIT Knowledge](#video)
 - Ở repo github này chỉ chứa [đề thi OOP HK2 - 2025_2026](https://github.com/HinnoNguyen/IT002_CK2_2526/blob/main/%C4%90%E1%BB%81%20Thi/%C4%90%E1%BB%81%20Thi%20OOP%20HK2%202025-2026.pdf), [câu 3](#cau3) và [đáp án tham khảo cho câu 3](#cau3ans)
 
 ---
